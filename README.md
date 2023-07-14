@@ -1,3 +1,1 @@
-# Chrome Dinosaur Game using Reinforcement Learning
-
-(add testing branch)
+# Some For-Fun Game using Reinforcement Learning
